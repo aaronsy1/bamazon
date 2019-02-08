@@ -9,3 +9,8 @@ if yes
 You are shown how much you spent and prompted to restart the app with the updated database after your purchase.
 
 if no you are prompted to restart the app.
+
+Technologies Used:
+MySQL database
+Inquirer
+Node.js
